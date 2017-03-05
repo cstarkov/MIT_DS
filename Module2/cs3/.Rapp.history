@@ -1,0 +1,2 @@
+load("/Users/mertdemirer1/Dropbox (MIT)/Current/RA/MITReg/CASES/case3/cps_all.Rdata")
+load("/Users/mertdemirer1/Dropbox (MIT)/Current/RA/MITReg/CASES/case3/growth.RData")
